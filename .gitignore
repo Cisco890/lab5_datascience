@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX build artifacts (se versiona main.tex y main.pdf, no los intermedios)
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+
+# IDE / editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
